@@ -41,5 +41,3 @@ Or deploy to testnet, for example
 
 ## Authors
 - 👤 Nick Mudge: <nick@perfectabstractions.com>, Github: [mudgen](www.github.com/mudgen)
-- 👤 Timo Neumann: <timo@fyde.fi>, Github: [Teamo0](www.github.com/Teamo0)
-- 👤 Rohan Sundar: <rohan@fyde.fi>, Github: [rsundar](www.github.com/rsundar)
